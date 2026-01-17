@@ -1,6 +1,15 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+ http://go8.myartsonline.com/zx/0/港澳4Gtv.txt # 港澳4Gtv
+ https://epg.pw/test_channels.m3u # 中国大陆频道
+ https://epg.pw/test_channels_hong_kong.m3u # 中国香港频道
+ https://epg.pw/test_channels_macau.m3u # 中国澳门频道
+ https://epg.pw/test_channels_taiwan.m3u # 中国台湾频道
+ https://iptv-org.github.io/iptv/countries/tw.m3u # 中国台湾频道
+ https://epg.pw/test_channels_singapore.m3u # 新加坡频道
+ https://epg.pw/test_channels_malaysia.m3u # 马来西亚频道
+ https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8 # 世界各地免费电视频道
+ https://iptv-org.github.io/iptv/index.m3u # 世界各地免费电视频道
 
 
 
