@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sjzsohu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-23 06:30:04
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-23 18:30:48
 https://fenghuang.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
 https://fenghuang.tv12.xyz/1.m3u8
@@ -1923,6 +1923,8 @@ https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="浙江生活.png" group-title="☘️浙江频道",浙江生活
 https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
+#EXTINF:-1 tvg-name="浙江生活" tvg-logo="浙江生活.png" group-title="☘️浙江频道",浙江生活
+https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="浙江民生.png" group-title="☘️浙江频道",浙江民生
