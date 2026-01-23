@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sjzsohu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-23 18:30:48
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-24 06:24:37
 https://fenghuang.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
 https://fenghuang.tv12.xyz/1.m3u8
@@ -1831,6 +1831,12 @@ https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d
 https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="央视台球.png" group-title="💰央视付费频道",央视台球
 https://hls-gateway.vpstv.net/streams/708855.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="风云音乐.png" group-title="💰央视付费频道",风云音乐
+https://hls-gateway.vpstv.net/streams/708858.m3u8
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="风云音乐.png" group-title="💰央视付费频道",风云音乐
+http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="风云音乐.png" group-title="💰央视付费频道",风云音乐
 http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="风云音乐.png" group-title="💰央视付费频道",风云音乐
@@ -4797,6 +4803,8 @@ http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
 https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="CHC动作电影.png" group-title="🎬电影频道",CHC动作电影
+https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="淘剧场.png" group-title="🎬电影频道",淘剧场
 http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 #EXTINF:-1 tvg-name="淘剧场" tvg-logo="淘剧场.png" group-title="🎬电影频道",淘剧场

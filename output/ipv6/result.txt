@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-23 18:30:48,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-24 06:24:37,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -925,6 +925,9 @@ CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CE
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
+风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
+风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
+风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
@@ -2468,6 +2471,7 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=dzdy
 CHC动作电影,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9
 CHC动作电影,https://t.freetv.fun/live/chcdong-zuo-dian-ying-2.php
+CHC动作电影,https://stream.freetv.fun/2f2e29b8759a2458730dc1f3686024472691952a50e787fe075944d0cb17f36e.ctv
 淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 淘剧场,http://iptv.666230.xyz/iptv/bjyd.php/6553
