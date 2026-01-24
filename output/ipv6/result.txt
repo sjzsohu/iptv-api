@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-24 09:20:23,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-24 18:26:52,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
