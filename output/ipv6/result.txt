@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-24 18:26:52,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-25 06:25:43,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -950,6 +950,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CE
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 世界地理,http://www.xiaomo520.cn:4020/udp/239.252.219.93:5140
 兵器科技,http://www.xiaomo520.cn:4020/udp/239.252.219.98:5140
@@ -2422,6 +2423,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://live.catvod.com/live.php?id=videolandyule
+纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandmax&token=d6d84c2a31e9094a5478d5d376177e7859090faf183ada5b1cf997ccd5d9df5a%3A1758241876
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv

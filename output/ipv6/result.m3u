@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sjzsohu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-24 18:26:52
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-25 06:25:43
 https://fenghuang.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
 https://fenghuang.tv12.xyz/1.m3u8
@@ -1881,6 +1881,8 @@ https://live.goodiptv.club/api/yqgd.php?id=fyzq
 https://hls-gateway.vpstv.net/streams/708859.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="风云足球.png" group-title="💰央视付费频道",风云足球
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="电视指南.png" group-title="💰央视付费频道",电视指南
+http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="电视指南.png" group-title="💰央视付费频道",电视指南
 http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 #EXTINF:-1 tvg-name="世界地理" tvg-logo="世界地理.png" group-title="💰央视付费频道",世界地理
@@ -4709,6 +4711,8 @@ https://hls-gateway.vpstv.net/streams/477081.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
 https://live.catvod.com/live.php?id=videolandyule
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
+https://live.catvod.com/catvod_com.php?id=videolandmax&token=d6d84c2a31e9094a5478d5d376177e7859090faf183ada5b1cf997ccd5d9df5a%3A1758241876
 #EXTINF:-1 tvg-name="J2" tvg-logo="J2.png" group-title="🌊港·澳·台",J2
 http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="J2.png" group-title="🌊港·澳·台",J2
