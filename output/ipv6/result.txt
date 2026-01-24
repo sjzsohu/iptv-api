@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-24 06:24:37,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-24 09:20:23,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -925,9 +925,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CE
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
-风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
-风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
-风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
 风云音乐,http://www.xiaomo520.cn:4020/udp/239.252.219.87:5140
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
