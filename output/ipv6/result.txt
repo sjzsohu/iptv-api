@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-25 06:25:43,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-25 18:26:54,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -950,7 +950,6 @@ CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CE
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 世界地理,http://www.xiaomo520.cn:4020/udp/239.252.219.93:5140
 兵器科技,http://www.xiaomo520.cn:4020/udp/239.252.219.98:5140
