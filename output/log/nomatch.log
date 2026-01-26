@@ -1,26 +1,53 @@
-[BD]axn,https://stream1.freetv.fun/d2dbe69820e035a1e628a021fd152ca9ed71fb85edf146cb002eb4c1313671a7.ctv
-[BD]cna[geo-blocked],https://stream1.freetv.fun/78c1c7eb4b3abda6e1795d40b3b8d384499a2739c8eba782e5a570d8e983f42c.m3u8
-[BD]cna *s[geo-blocked],https://stream1.freetv.fun/3fc15d914d1c91c2f0c668fb5ea1ceaed5ab8159dae2bd3c045b36dfe5082ed1.m3u8
-[BD]cna,https://stream1.freetv.fun/d8b66990da8f29a9eae8fef9add9cb28392dc19ba4c56ed61149c88dda834bc9.m3u8
-[BD]cna,https://stream1.freetv.fun/8c4bb87cc37689686affb4b5ab092669890855ac145d7df95f8aae9e5862d61d.m3u8
-[BD]cna,https://stream1.freetv.fun/d71c6f6e3de262071c2172abdb8482762bdf28867426b988f6546708a36ebfa0.m3u8
-[BD]channel 5,https://stream1.freetv.fun/de561477a428dd9adfe2ab1536f46121f21b80af7ec7efa22f794abf40b541a9.m3u8
-[VGA]channel 8,https://stream1.freetv.fun/810d506d45bac86c654d113bc57e3047f4dfb304db2376c67a47180507bdc7b6.m3u8
-[BD]channel 8,https://stream1.freetv.fun/82b3b5d8a546ef5883bd4b19e425b0b5b8a5133c36aba32abe0230a36d448b50.m3u8
-[VGA]channel u,https://stream1.freetv.fun/3303ba34b6316e04ed6f52b7e41fcdc200a1a2f84947337d91efae5b0ca2bd7f.m3u8
-[BD]cinema world[geo-blocked],https://stream1.freetv.fun/c1c2fcd10876a1f457e9dc96e560f44572f4dca63a39d97faa1aae2ab13a3119.m3u8
-[VGA]cinemator,https://stream1.freetv.fun/c7e40614004c8bfad9ace7b3c8c4c35c9d1ac0749f7c1fc85dc2ded7a76f238d.m3u8
-[BD]xite hits[geo-blocked],https://stream1.freetv.fun/350a54a564633d554db45e511483c39c085a55ddf1336bfc308ee1c6a1f75c66.m3u8
-[SD]mooz hits,https://stream1.freetv.fun/d5ca5f2ec296c23e16245613abdd055a678f44396bdc1f76bc32bf73d2f21fda.m3u8
-[BD]hits[geo-blocked],https://stream1.freetv.fun/bb1501153f2ac580557a9ece75fe3ca62deea74145afe80fa1906c3de67235fd.m3u8
-[BD]rock,https://stream1.freetv.fun/a1930adf90df785821cbca6e65af427799ad4da6763ffb7fe7e8e28c7c229650.m3u8
-[BD]rock action[geo-blocked],https://stream1.freetv.fun/6a860699d994f55518644b14d6d0adfdec2e7cde6568322701aa35d04023d1a6.m3u8
-[VGA]SPOTV,https://stream1.freetv.fun/50f6ba1a623acb61aa7de43b331e0c9cd263807f6be64137b4ba8e1d21488214.m3u8
-[VGA]SPOTV 2,https://stream1.freetv.fun/411357e38920a7fab07b9ec10d3fbd7a69e2989028917716121c1d2190ced595.m3u8
-[HD]sony channel,https://stream1.freetv.fun/9d399fdd8147febfcba85474a39f7f07bcba023b864154a5f396acdcb82d1b36.m3u8
-[BD]sony one favoris,https://stream1.freetv.fun/b2789fc1d02c76625a3fefcef39f89278e999779ecee668f743410d9fe3597c8.m3u8
-[BD]sony one favoris[geo-blocked],https://stream1.freetv.fun/ed77c49f8456406f27956bceae7535bc23ca11bb980cbd75c884a8ec99dc7045.m3u8
-[HD]sony one classics,https://stream1.freetv.fun/312ce6b40bc9b94ebdb861ddebe038db49b108221be5c6e841dac39c1223c262.m3u8
-[BD]sony one faves[geo-blocked],https://stream1.freetv.fun/dfa3705149cc6c002982753e919486a8fd1275abdf9a62800f9903ab076e9b44.m3u8
-[BD]sony one blacklist[geo-blocked],https://stream1.freetv.fun/59005deb4a58af896465d00bf10bb2187ae2db1ca493a6238343ec31f400723d.m3u8
-[VGA]Thrill *a,https://stream1.freetv.fun/271366ed6e0585783612db95b44427f16a08b02859e633bd1366b0d07a8a82b6.m3u8
+Kanali 7 Ⓢ,https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+A2 CNN Albania,https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+CGNTV Chinese (1080p),https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+ABC News Albania Ⓣ,https://www.twitch.tv/abcnewsal
+CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
+AlbKanale Music TV Ⓢ,https://albportal.net/albkanalemusic.m3u8
+CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
+Alpo TV,https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+CNA,https://live1.mediadesk.al/cnatvlive.m3u8
+DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Euronews Albania Ⓨ,https://www.youtube.com/@EuronewsAlbania/live
+Dali TV (大立電視台) (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+News 24 Ⓢ,https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+EBC Financial News (東森財經新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dscjxw_fhd.m3u8
+Ora News,https://live1.mediadesk.al/oranews.m3u8
+EBC News (東森新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
+Panorama TV Ⓢ,http://198.244.188.94/panorama/livestream/playlist.m3u8
+FTV (民視) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=ms
+Report TV,https://deb10stream.duckdns.org/hls/stream.m3u8
+FTV One (民視第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
+Syri,https://stream.syritv.al/SyriTV/index.m3u8
+Global News (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+Top News Ⓣ,https://www.twitch.tv/topnewsal
+GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
+Tropoja,https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
+TV 7 Albania,https://5d00db0e0fcd5.streamlock.net/7064/7064/playlist.m3u8
+Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+TV Apollon Ⓢ,https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+NTD TV Asia-Pacific,https://live.ntdtv.com/aplive200/playlist.m3u8
+Vizion Plus,https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+SET News (三立新聞) (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
+Andorra TV,https://videos.rtva.ad/live/rtva/playlist.m3u8
+Supreme Master TV (720p),https://lbs-us1.suprememastertv.com/720p.m3u8
+TN Todo Noticias Ⓨ,https://www.youtube.com/c/todonoticias/live
+Taiwan Indigenous TV (原住民電視) (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+Encuentro Ⓨ Ⓖ,https://www.youtube.com/user/encuentro/live
+TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+Pakapaka Ⓨ Ⓖ,https://www.youtube.com/user/CanalPakapaka/live
+TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+Aunar,https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+中天新聞台 (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Cine.AR,https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
+Tec TV,https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+Televisión Pública Ⓨ,https://www.youtube.com/user/TVPublicaArgentina/live
+天才衝衝衝 (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+DeporTV,https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+東森購物60 (480p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+Canal 26 Ⓨ,https://www.youtube.com/c/canal26/live
