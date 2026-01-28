@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-28 06:26:35,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-28 18:37:44,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -2682,6 +2682,7 @@ CCTV-5+,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 广州竞赛,https://t.freetv.fun/live/yan-zhou-jing-sai.m3u8
 辽宁体育,https://stream1.freetv.fun/liao-zhu-ti-yu-3.m3u8
 辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu.m3u8
+辽宁体育,https://t.freetv.fun/live/liao-zhu-ti-yu-2.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-22.m3u8
 山东体育,https://stream1.freetv.fun/shan-dong-ti-yu-25.m3u8
 山东体育,https://t.freetv.fun/live/shan-dong-ti-yu-1.m3u8
