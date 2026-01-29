@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-29 06:31:46,https://fenghuang.tv12.xyz/1.m3u8
+2026-01-29 18:41:19,https://fenghuang.tv12.xyz/1.m3u8
 
 ,#genre#
 CCTV-1,https://fenghuang.tv12.xyz/1.m3u8
@@ -965,6 +965,7 @@ CETV-4,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CE
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江,https://stream1.freetv.fun/bf079ada709563bdd095159c02dfb5afb53c24e643b73f987100b9d25e9c8f41.m3u8
 浙江钱江,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
+浙江钱江,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-6.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-2.ctv
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
