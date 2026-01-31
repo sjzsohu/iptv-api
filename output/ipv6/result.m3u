@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/sjzsohu/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-01-31 18:29:47
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="🕘️更新时间",2026-02-01 06:25:34
 https://fenghuang.tv12.xyz/1.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png",CCTV-1
 https://fenghuang.tv12.xyz/1.m3u8
@@ -1917,6 +1917,10 @@ https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
+https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
+#EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
+https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="浙江生活.png" group-title="☘️浙江频道",浙江生活
 https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-6.m3u8
 #EXTINF:-1 tvg-name="浙江生活" tvg-logo="浙江生活.png" group-title="☘️浙江频道",浙江生活
@@ -1941,6 +1945,8 @@ https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 http://ls.qingting.fm/live/1099.m3u8
 #EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
 https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="浙江经济生活.png" group-title="☘️浙江频道",浙江经济生活
+https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="浙江民生.png" group-title="☘️浙江频道",浙江民生
 https://stream1.freetv.fun/zhe-jiang-min-sheng-8.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="浙江民生.png" group-title="☘️浙江频道",浙江民生
@@ -4177,6 +4183,8 @@ https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd#http://hbfc
 https://stream1.freetv.fun/he-bei-nong-min-17.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="河北农民.png" group-title="☘️河北频道",河北农民
 https://t.freetv.fun/live/he-bei-nong-min-1.m3u8
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="河北农民.png" group-title="☘️河北频道",河北农民
+https://t.freetv.fun/live/he-bei-nong-min.m3u8
 #EXTINF:-1 tvg-name="昌黎综合" tvg-logo="昌黎综合.png" group-title="☘️河北频道",昌黎综合
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="昌黎综合" tvg-logo="昌黎综合.png" group-title="☘️河北频道",昌黎综合
@@ -5347,6 +5355,8 @@ https://live.goodiptv.club/api/yqgd.php?id=fyzq
 https://hls-gateway.vpstv.net/streams/708859.m3u8
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="风云足球.png" group-title="🏀体育频道",风云足球
 https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="风云足球.png" group-title="🏀体育频道",风云足球
+https://t.freetv.fun/live/cctvfeng-yun-zu-qiu.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="魅力足球.png" group-title="🏀体育频道",魅力足球
 https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-5.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="魅力足球.png" group-title="🏀体育频道",魅力足球
